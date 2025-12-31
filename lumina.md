@@ -1,6 +1,6 @@
 ---
 publishDate: "2025-12-29"
-title: Lumina: The Hybrid AI Ambient Sentinel
+title: Lumina The Hybrid AI Ambient Sentinel
 excerpt: An intelligent IoT system that combines local environmental telemetry with privacy-focused cloud AI to create a safer, healthier living space.
 image: lumina-cover.jpg
 tags:
