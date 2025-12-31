@@ -97,7 +97,7 @@ The system requires a local MySQL database to store sensor history.
 ### **2. Backend Deployment**
 1.  Navigate to your XAMPP installation folder (usually `C:\xampp\htdocs\`).
 2.  Create a new folder named **`myosa_project`**.
-3.  Copy your PHP files (`test_data.php`, `dashboard.php`) into this folder.
+3.  Copy your PHP files (`test_data.php`, `dashboard.php`,`export_csv.php`) into this folder.
     * *Note: Ensure your `test_data.php` has your valid OpenRouter API Key.*
 
 ### **3. Hardware Assembly & Firmware**
