@@ -33,7 +33,7 @@ Lumina operates on a **Hybrid Edge-Cloud Architecture**. It uses a local server 
 ### **Images**
 
 <p align="center">
-  <img src="/lumina-cover.jpg" width="800"><br/>
+  <img src="/lumina-cover.pNg" width="800"><br/>
   <i>Figure 1: The Lumina Device and Dashboard Setup</i>
 </p>
 
