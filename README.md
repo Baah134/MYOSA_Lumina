@@ -152,3 +152,16 @@ pip install openai requests
 
 # Local Server Setup
 Download and install XAMPP (Apache + MySQL)
+
+---
+## Contribution Notes
+
+We are actively looking for contributors to help expand Lumina's capabilities. We welcome pull requests and feature suggestions!
+
+**Key Roadmap Items:**
+* **Voice Feedback Loop:** Integration of an I2S Speaker (MAX98357A) to allow Lumina to verbally announce alerts (Text-to-Speech) for visually impaired users.
+* **Voice Command Interface:** Adding an INMP441 Microphone so users can query the AI naturally without a dashboard.
+* **TinyML Integration:** Replacing the current threshold-based fall detection with a trained TensorFlow Lite model (via Edge Impulse) for higher accuracy.
+* **Smart Home Bridging:** Adding MQTT support to allow Lumina to directly control smart bulbs and thermostats based on its environmental analysis.
+
+
