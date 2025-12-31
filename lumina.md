@@ -101,10 +101,14 @@ The system requires a local MySQL database to store sensor history.
     * *Note: Ensure your `test_data.php` has your valid OpenRouter API Key.*
 
 ### **3. Hardware Assembly & Firmware**
-1.  **Wiring:** Connect sensors (BMP280, MPU6050, BH1750) via I2C (SDA -> GPIO 21, SCL -> GPIO 22).
+1.  **Wiring:** Connect sensors (BMP280, MPU6050, ADPS9960) via I2C (SDA -> GPIO 21, SCL -> GPIO 22).
 2.  **IP Config:** Open the C++ code and update `String URL` with your laptop's local IP address (e.g., `192.168.1.5`).
 3.  **Upload:** Flash the code to the ESP32 using Arduino IDE.
 
+###
+1. test.php allows you to upload sensor data code and communicate with the LLM.
+2. dashboard.php displays the live UI
+3. export.csv allows you to download your csv data
 ---
 
 ## Usage Instructions
