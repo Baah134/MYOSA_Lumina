@@ -1,3 +1,4 @@
+lumina.md
 ---
 publishDate: "2025-12-29"
 title: Lumina ,The Hybrid AI Ambient Sentinel
