@@ -47,7 +47,7 @@ Lumina operates on a **Hybrid Edge-Cloud Architecture**. It uses a local server 
 
 <p align="center">
   <video controls width="100%">
-  <source src="lumina-demo.mp4" type="video/mp4">
+  <source src="/lumina-demo.mp4" type="video/mp4">
   </video>
   <br/><i>Video 1: Live demonstration of sensor data triggering AI responses</i>
 </p>
