@@ -15,7 +15,6 @@ tags:
 > "Lumina doesn't just measure the room; it understands how the environment affects the human inside it."
 
 
-https://github.com/user-attachments/assets/bca06f8f-a485-4dcf-b013-bc8396d56a1f
 
 
 ---
@@ -55,11 +54,8 @@ Lumina operates on a **Hybrid Edge-Cloud Architecture**. It uses a local server 
   </video>
   <br/><i>Video 1: Live demonstration of sensor data triggering AI responses</i>
 </p>
-<p align="center">
-  https://github.com/user-attachments/assets/bca06f8f-a485-4dcf-b013-bc8396d56a1f
-  <br/>
-  <i>Video 1: Live demo of Lumina</i>
-</p>
+
+
 
 ---
 
