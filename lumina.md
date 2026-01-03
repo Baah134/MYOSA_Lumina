@@ -72,9 +72,7 @@ The accelerometer module (simulating a wearable tag) tracks the user's physical 
 * **Fall Detection:** Identifies sudden high-G impacts followed by inactivity.
 * **Sleep/Rest Analysis:** Tracks micro-movements to determine if a patient is restless or sleeping soundly.
 
-### **3. Hybrid AI Analysis**
-Unlike standard smart devices that stream everything to the cloud 24/7, Lumina operates on a **"Need-to-Know" basis**.
-* **Local Logic First:** Basic thresholds (e.g., "Too hot") are handled locally by the ESP32 and PHP server for instant reaction.
+### **3. AI Analysis**
 * **Cloud Intelligence:** Complex queries (e.g., "Is this combination of pressure drop and restlessness dangerous?") are routed to the **Nvidia Nemotron LLM**.
 * **Anonymization:** The system sends only raw sensor integers. No user metadata, audio, or images are ever transmitted to the AI provider.
 
